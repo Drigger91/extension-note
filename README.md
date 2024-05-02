@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # extension-note
 A browser extension capable of storing notes on the basis of URL. Local storage is used as the primary storage for containing the details for the particular web page. 
 =======
@@ -32,4 +31,3 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
->>>>>>> efd4ad4 (Initial changes for setting up boilerplate code)
